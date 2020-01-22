@@ -1,0 +1,35 @@
+{
+  "name": "react-native-geckoview",
+  "title": "React Native GeckoView",
+  "version": "0.0.1",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnylqm/react-native-geckoview.git",
+    "baseUrl": "https://github.com/sunnylqm/react-native-geckoview"
+  },
+  "keywords": [
+    "react-native",
+    "geckoview",
+    "webview"
+  ],
+  "author": {
+    "name": "sunnylqm",
+    "email": "sunnylqm@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.9.0",
+    "react-native": ">=0.60"
+  },
+  "devDependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.5"
+  }
+}
