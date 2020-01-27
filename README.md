@@ -1,4 +1,4 @@
-# react-native-geckoview [![npm](https://badge.fury.io/js/react-native-geckoview.svg)](http://badge.fury.io/js/react-native-geckoview)
+# react-native-geckoview [![npm](https://badge.fury.io/js/react-native-geckoview.svg)](https://www.npmjs.com/package/react-native-geckoview)
 
 ## Getting started
 
