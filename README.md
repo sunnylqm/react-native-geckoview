@@ -1,5 +1,7 @@
 # react-native-geckoview [![npm](https://badge.fury.io/js/react-native-geckoview.svg)](https://www.npmjs.com/package/react-native-geckoview)
 
+Based on [GeckoView](https://github.com/mozilla/geckoview). 
+
 ## Getting started
 
 1. `$ yarn add react-native-geckoview`  
